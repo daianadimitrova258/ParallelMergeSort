@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\obj\Debug\MergeSort.Explanation.resources
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\obj\Debug\MergeSort.Visualization.resources
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\obj\Debug\MergeSort.Properties.Resources.resources
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\obj\Debug\MergeSort.Start.resources
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.GenerateResource.cache
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
+C:\Users\user\Desktop\САА\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
