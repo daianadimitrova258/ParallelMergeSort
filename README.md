@@ -1,5 +1,5 @@
 # ParallelMergeSort
-The program presents the way in which parallel merge sort works step by step. It is made through Visual Studio and is a Windows desktop project.
+The program presents the way in which parallel merge sort works step by step. It is made with Visual Studio and it is a Windows desktop project.
 
 When the application is started, the following window appears. It gives 2 options to the users:
 1. To go directly to the visualization of the algorithm for parallel merge sort.
